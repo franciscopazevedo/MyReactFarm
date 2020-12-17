@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  background-color: crimson;
+  min-height: 100vh;
+}
+
+
+
+
+
+
+
+
+/*
+.App-header {
+  background-color: crimson;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+  
+  102, 255, 0
+}
+
+.App-link {
+  color: #dc61fb;
+}
+*/
+
+
